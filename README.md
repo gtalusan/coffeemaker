@@ -26,7 +26,9 @@ Traces are cut and wires are bodged into place.
 
 The Arduino's voltage regulator and LED are removed so it can have a low quiesscent current while sleeping.
 
-![alt text](./pcb-back.jpg "Bodged wiring")
+![alt text](./pcb-front.jpg "Bodged wiring")
+
+![alt text](./pcb-back.jpg "More bodged wiring")
 
 ### Code
 
